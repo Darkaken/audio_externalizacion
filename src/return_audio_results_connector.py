@@ -17,4 +17,6 @@ def return_audio(json_data):
     #    nodo.audios_procesados += 1
     #    nodo.tandas_encontradas += 1 (si se encuentra una tanda)
 
+    #return new_block(json_data)
+
     pass
