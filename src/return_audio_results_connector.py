@@ -14,6 +14,7 @@ def return_audio(json_data):
     #    Para esto se usa primero el NewBlock para agregar este evento al blockchain
 
     # 2) En cualquier caso, se tienen que actualizar las estadisticas del nodo:
-    #    
+    #    nodo.audios_procesados += 1
+    #    nodo.tandas_encontradas += 1 (si se encuentra una tanda)
 
     pass
